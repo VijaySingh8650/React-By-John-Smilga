@@ -1,2 +1,2 @@
 ### `Website`
-(Link)[https://tabs-by-reactjs.netlify.app/]
+[link](https://tabs-by-reactjs.netlify.app/)
